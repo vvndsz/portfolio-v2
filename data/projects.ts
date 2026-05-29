@@ -22,7 +22,7 @@ const projects: Project[] = [
     title: "Maritime Turnaround Predictor & ML Observability Pipeline",
     value: "Architected a real-time maritime analytics platform, delivering vessel prediction, observability, reliable deployment alignment, and interactive operational insights.",
     stack: ["Python", "Kafka", "MLflow", "FastAPI", "Streamlit"],
-    image: "/project_ss/Maritime-Turnaround-Predictor.png",
+    image: "/project_ss/Maritime-Turnaround-Predictor.jpg",
     href: "",
     linkLabel: "Repo",
   },
