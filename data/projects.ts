@@ -19,6 +19,14 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
+    title: "Maritime Turnaround Predictor & ML Observability Pipeline",
+    value: "Architected a real-time maritime analytics platform, delivering vessel prediction, observability, reliable deployment alignment, and interactive operational insights.",
+    stack: ["Python", "Kafka", "MLflow", "FastAPI", "Streamlit"],
+    image: "/project_ss/Maritime-Turnaround-Predictor.png",
+    href: "",
+    linkLabel: "Repo",
+  },
+  {
     title: "ai-agents-for-beginners",
     value: "11 lessons to get started building AI agents — an educational resource for learning agent development.",
     stack: ["Documentation", "Learning Resources"],
