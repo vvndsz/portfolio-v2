@@ -113,6 +113,14 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
+    title: "Prompt Proxy",
+    value: "**Prompt Optimizer** is a Chrome/Edge extension that sends your raw prompt to an API and automatically replaces it in the chat box with an enhanced version.",
+    stack: ["Javascript", "OpenRouter", "Manifest V3"],
+    image: "/project_ss/Prompt-Proxy.png",
+    href: "",
+    linkLabel: "Repo",
+  },
+  {
     title: "VisionTranscribe",
     value: "Visual speech recognition from lip-reading using AV-HuBERT transformer models to transcribe speech from video without audio.",
     stack: ["Flask", "React", "PyTorch", "AV-HuBERT", "MediaPipe", "OpenCV"],
