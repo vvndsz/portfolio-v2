@@ -114,7 +114,7 @@ const projects: Project[] = [
   },
   {
     title: "Prompt Proxy",
-    value: "**Prompt Optimizer** is a Chrome/Edge extension that sends your raw prompt to an API and automatically replaces it in the chat box with an enhanced version.",
+    value: "Prompt Optimizer is a Chrome/Edge extension that sends your raw prompt to an API and automatically replaces it in the chat box with an enhanced version.",
     stack: ["Javascript", "OpenRouter", "Manifest V3"],
     image: "/project_ss/PromptProxy.png",
     href: "",
