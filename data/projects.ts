@@ -27,7 +27,7 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "ai-agents-for-beginners",
+    title: "AI Agents for Beginners",
     value: "11 lessons to get started building AI agents — an educational resource for learning agent development.",
     stack: ["Documentation", "Learning Resources"],
     image: "/project_ss/ai-agents-for-beginners.png",
@@ -35,7 +35,7 @@ const projects: Project[] = [
     linkLabel: "Docs",
   },
   {
-    title: "AI-Image-Caption-Generator",
+    title: "AI Image Caption Generator",
     value: "Intelligent image captioning with customizable tones (casual, formal, humorous, poetic).",
     stack: ["React", "FastAPI", "TailwindCSS", "Salesforce BLIP", "Transformers", "Redis"],
     image: "/project_ss/AI-Image-Caption-Generator.png",
@@ -43,7 +43,7 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "AI_Adaptive_Traffic_Control",
+    title: "AI Adaptive Traffic Control",
     value: "AI-powered adaptive traffic management system that optimizes traffic light timing based on real-time conditions.",
     stack: ["AI/ML", "TBD"],
     image: "/project_ss/AI_Adaptive_Traffic_Control.png",
@@ -59,7 +59,7 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "Ham-Radio-Assistant",
+    title: "Ham-Radio Assistant",
     value: "Local-first intelligent assistant for amateur radio operators in India — Q-codes, frequency info, morse encoding, logbook, contests, and more.",
     stack: ["Python", "Flask", "Vosk", "Gemini API", "pyttsx3"],
     image: "/project_ss/Ham-Radio-Assistant.png",
@@ -67,14 +67,14 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "Image-captioning-v1",
+    title: "Image Captioning-v1",
     value: "First-version image captioning implementation (v1) implemented in a Jupyter notebook.",
     stack: ["Jupyter", "Python", "Notebook"],
     href: "",
     linkLabel: "Notebook",
   },
   {
-    title: "RAG-agent-python",
+    title: "RAG Agent",
     value: "Production-ready RAG AI agent (Python implementation) — uploads PDFs, vectorizes content, answers questions using retrieved context.",
     stack: ["Python", "FastAPI", "Streamlit", "Llama Index", "Qdrant", "OpenAI", "Docker"],
     image: "/project_ss/RAG-agent-python.png",
@@ -90,7 +90,7 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "support",
+    title: "Support",
     value: "Support and utility project offering general helper functionality.",
     stack: ["TypeScript"],
     href: "",
@@ -105,7 +105,7 @@ const projects: Project[] = [
     linkLabel: "App",
   },
   {
-    title: "Virtual-Assistant",
+    title: "Virtual Assistant",
     value: "AI voice assistant with real-time conversation — customizable personality and spoken replies.",
     stack: ["Python", "ElevenLabs", "PyAudio"],
     image: "/project_ss/Virtual-Assistant.png",
@@ -113,7 +113,7 @@ const projects: Project[] = [
     linkLabel: "Repo",
   },
   {
-    title: "Prompt Proxy",
+    title: "PromptProxy",
     value: "Prompt Optimizer is a Chrome/Edge extension that sends your raw prompt to an API and automatically replaces it in the chat box with an enhanced version.",
     stack: ["Javascript", "OpenRouter", "Manifest V3"],
     image: "/project_ss/PromptProxy.png",
